@@ -10,4 +10,9 @@ Fabric Version:
   fabric-loader-0.18.4 - 1.21.8  
   https://fabricmc.net/use/installer/  
 
+
+Command in Minecraft to start/stop mod:
+"/cactusmod toggle"
+
+
 Any problems or concerns please let me know.
